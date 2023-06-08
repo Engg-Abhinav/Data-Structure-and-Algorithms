@@ -14,6 +14,6 @@ public class Analysis_of_Algorithms {
 			sum = sum + i;
 		}
 		
-		System.out.println("Sum of " + n + " numbers is: " + sum)
+		System.out.println("Sum of " + n + " numbers is: " + sum);
 	}
 }
